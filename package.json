@@ -2,11 +2,9 @@
   "name": "demo-tcs",
   "version": "1.0.0",
   "description": "Demo for TCS employees on the Lilly project",
-  "repository": "https://github.com/EliLillyCo/demo-tcs.git",
+  "repository": "https://github.com/acwiesn/demo-tcs.git",
   "author": "",
-  "contributors": [
-  
-  ],
+  "contributors": [],
   "license": "UNLICENSED",
   "private": true,
   "scripts": {
@@ -18,7 +16,10 @@
     "nsptest": "/node_modules/.bin/nsp check"
   },
   "dependencies": {
-    "dotenv": "^2.0.0"
+    "body-parser": "^1.16.1",
+    "dotenv": "^2.0.0",
+    "express": "^4.14.1",
+    "hbs": "^4.0.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
