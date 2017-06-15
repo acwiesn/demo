@@ -9,16 +9,6 @@
       <description>An in-depth look at creating applications 
       with XML.</description>
    </book>
-   <book id="bk103">
-      <author>Kyle, long</author>
-      <title>Maeve Ascendant</title>
-      <genre>Reality</genre>
-      <price>5.95</price>
-      <publish_date>2000-11-17</publish_date>
-      <description>After the collapse of a nanotechnology 
-      society in England, the young survivors lay the 
-      foundation for a new society.</description>
-   </book>
    <book id="bk104">
       <author>Corets, Eva</author>
       <title>Oberon's Legacy</title>
